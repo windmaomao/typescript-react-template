@@ -1,2 +1,4 @@
-import sum from './sum'
-export { sum }
+import sum from "./sum";
+export { sum };
+
+export * from "./App";
